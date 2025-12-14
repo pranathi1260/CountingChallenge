@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+.env
+
+# Datasets
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+data/
+datasets/
+images/
+
+# Models
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+models/
+
+# Logs and Outputs
+runs/
+logs/
+output/
+output_results/
+wandb/
+venv_cpu/
